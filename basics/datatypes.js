@@ -1,0 +1,12 @@
+let greeting='hello';
+let num=87;
+let price=8.8;
+let notset;
+let easy='null';
+let isit=false;
+console.log(typeof greeting);
+console.log(typeof num);
+console.log(typeof price);
+console.log(typeof notset);
+console.log(typeof easy);
+console.log(typeof isit);
