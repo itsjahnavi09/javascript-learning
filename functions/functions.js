@@ -26,6 +26,7 @@ function greeti(name='stranger'){
 
 greeti();
 greeti('priya');
+
 // return functions
 function subtract(a,b){
     return a-b;
